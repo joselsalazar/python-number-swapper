@@ -1,4 +1,4 @@
-contact_dict = {'Eve': 'eve@cream.com', 'Eli': 'eli@beans.net'}
+contact_dict = {'Eve': 'eve@cream.com', 'Eli': 'eli@beans.net', 'Jose': 'jose.salazar.home@gmail.com'}
 
 print('Original contact dict:')
 print(contact_dict)
